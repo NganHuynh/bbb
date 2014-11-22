@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "bbb", ".", "{EE19A8FB-6696-46E1-B6FB-1C8D1730A005}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/bbb"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\GitHub\bbb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\bbb\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/bbb"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\GitHub\bbb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\bbb\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61060"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE19A8FB-6696-46E1-B6FB-1C8D1730A005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE19A8FB-6696-46E1-B6FB-1C8D1730A005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
